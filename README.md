@@ -22,7 +22,7 @@
 	<li>🎓 Pursuing B.Tech in CSE at Lovely Professional University</li>
 	<li>💻 Passionate about <b>MERN, Laravel, Django, Spring Boot</b></li>
 	<li>☁️ Exploring AI, Cloud Computing, and DevOps</li>
-	<li>🏆 Hackathon Finalist & competitive programmer (LeetCode, CodeForces, CodeChef)</li>
+	<li>🏆 Hackathon Finalist & competitive programmer</li>
 	<li>📚 Strong foundation in DSA, DBMS, OS, OOP</li>
 </ul>
 
@@ -43,26 +43,22 @@
 
 ## 🏆 Achievements
 
-- ⭐ 1400+ Rating on CodeChef (2-star), solved 300+ problems across platforms
+- ⭐ Solved 300+ DSA and CP problems across platforms
 - 🎯 Qualified Adobe India Hackathon (second round)
 - 🎓 Dean’s List – Top 10% academically
 - 🥇 26th Rank out of 50,000+ in Smart India Hackathon
-- 🏅 1st Place in March Past Parade (Leadership & Discipline)
+- 🏅 Won 3x Free Fire 3rd Party Events
 
 ---
 
 ## 📜 Certifications
 
-- 📱 Android Mobile Application – <i>NPTEL (June 2025)</i>
-- ☁️ Google Cloud Computing – <i>NPTEL (Oct 2024)</i>
-- 🌐 MERN Stack Development – <i>Cipher Schools (May 2024)</i>
-- 📘 Data Structures & Algorithms – <i>Udemy (July 2023)</i>
+- ☁️ Cloud Infrastructure 2025 Generative AI Professional - Oracle
+- ☁️ Google Cloud Computing – NPTEL
+- 🤖 Generative AI & Large Language Model Technologies - coursera
+- 📘 Data Structures & Algorithms – Udemy
 
 ---
-
-## 📊 GitHub Analytics
-
-<!-- Optionally, you can add a contribution graph or stats here using GitHub Readme Stats or similar tools -->
 
 
 
